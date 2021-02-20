@@ -12,4 +12,4 @@
 
 <br>
 
-<img src="/picture/20210220_125113.jpg" width="50%/>
+<img src="https://github.com/Zong-Xi/AirSim-Hardware-in-the-Loop/blob/master/picture/20210220_125113.jpg" height="50%/>
