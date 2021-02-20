@@ -1,6 +1,9 @@
 # AirSim Hardware in the Loop (HITL)
 
 ---
+
+## Hardware Part
+
 - mRo Pixhawk Flight Controller (pixhawk 1)
 - receiver : FrSky TFR8 2.4G
 - transmitter : Futaba t10cp
@@ -16,6 +19,10 @@
     <tr>
         <td><center>pixhawk and receiver</center></td>
         <td><center>transmitter</center></td>
-        <td><center>total</center></td>
+        <td><center>total tools</center></td>
     </tr>
 </table>
+
+<br>
+
+## QGroundControl
