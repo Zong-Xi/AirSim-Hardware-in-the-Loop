@@ -62,5 +62,5 @@ in `setting.json` :
 <br>
 
 ## Result
-- below is the result video
-[![HITL Test](https://github.com/Zong-Xi/AirSim-Hardware-in-the-Loop/blob/master/picture/block.png)](https://youtu.be/jm2-Q2Wo8pk)
+- [result video link](<https://youtu.be/jm2-Q2Wo8pk>)
+
