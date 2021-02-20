@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="/picture/20210220_125103.jpg" width="50%"/>
+<img src="/picture/20210220_125103.jpg" alt= width="50%"/>
 - picture of pixhawk flight controller and receiver
 
 <br>
