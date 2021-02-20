@@ -7,9 +7,10 @@
 
 <br>
 
-<img src="https://github.com/Zong-Xi/AirSim-Hardware-in-the-Loop/blob/master/picture/20210220_125103" />
+<img src="https://github.com/Zong-Xi/AirSim-Hardware-in-the-Loop/blob/master/picture/20210220_125103.jpg" />
+
 - picture of pixhawk flight controller and receiver
 
 <br>
 
-<img src="https://github.com/Zong-Xi/AirSim-Hardware-in-the-Loop/blob/master/picture/20210220_125113" />
+<img src="https://github.com/Zong-Xi/AirSim-Hardware-in-the-Loop/blob/master/picture/20210220_125113.jpg" />
