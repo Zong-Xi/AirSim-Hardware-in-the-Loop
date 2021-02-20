@@ -1,0 +1,9 @@
+*.pyc
+*.h5f
+*.h5
+*.json
+*.csv
+*.zip
+*.txt
+*.mp4
+checkpoints
