@@ -62,5 +62,8 @@ in `setting.json` :
 <br>
 
 ## Result
-- [result video link](<https://youtu.be/jm2-Q2Wo8pk>)
+- HITL, using transmitter 
+    - [using transmitter](<https://youtu.be/jm2-Q2Wo8pk>)
 
+- HITL, using Python code
+    - [using Python](<https://youtu.be/XE08pVrVFdY>)
