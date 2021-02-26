@@ -77,6 +77,7 @@ in `setting.json` :
 - launch QGC -> select udp connection mamually -> launch AirSim 
 
 <BR>
+
     
 ## Result
 - HITL, using transmitter 
