@@ -79,9 +79,9 @@ in `setting.json` :
     
 ## Result
 - HITL, using transmitter 
-    - [using transmitter](<https://youtu.be/jm2-Q2Wo8pk>)
+    - [link](<https://youtu.be/jm2-Q2Wo8pk>)
 
 - HITL, using Python code
-    - [using Python](<https://youtu.be/XE08pVrVFdY>)
+    - [link](<https://youtu.be/XE08pVrVFdY>)
 - HITL + QGC + AirSim, using Python code 
     - [link](<https://youtu.be/i28x2xz901E>)
