@@ -57,7 +57,7 @@ in `setting.json` :
         }
     }
 ```
-[px4 setup reference](<https://github.com/Microsoft/AirSim/blob/master/docs/px4_setup.md>)
+[px4 setup reference](<https://github.com/Microsoft/AirSim/blob/master/docs/px4_setup.md> =60%)
 
 <br>
 
