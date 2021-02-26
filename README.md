@@ -68,6 +68,7 @@ in `setting.json` :
     - in Application setting -> Comm Links
     - Listening Port : 14550
     - TargetHosts : 127.0.0.1:14550 (local computer ip) 
+    - <img src="https://github.com/Zong-Xi/AirSim-Hardware-in-the-Loop/blob/master/picture/QGC.png" >
     - also need to set the parameter in `AirSim/Setting.json`
     ``` json
     "QgcHostIp": "127.0.0.1", 
