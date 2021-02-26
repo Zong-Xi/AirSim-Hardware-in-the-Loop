@@ -57,7 +57,7 @@ in `setting.json` :
         }
     }
 ```
-[px4 setup reference](<https://github.com/Microsoft/AirSim/blob/master/docs/px4_setup.md> width="40%" height="40%")
+[px4 setup reference](<https://github.com/Microsoft/AirSim/blob/master/docs/px4_setup.md>)
 
 <br>
 
@@ -68,7 +68,7 @@ in `setting.json` :
     - in Application setting -> Comm Links
     - Listening Port : 14550
     - TargetHosts : 127.0.0.1:14550 (local computer ip) 
-    - <img src="https://github.com/Zong-Xi/AirSim-Hardware-in-the-Loop/blob/master/picture/QGC.png" >
+    - <img src="https://github.com/Zong-Xi/AirSim-Hardware-in-the-Loop/blob/master/picture/QGC.png" width="40%" height="40%" />
     - also need to set the parameter in `AirSim/Setting.json`
     ``` json
     "QgcHostIp": "127.0.0.1", 
