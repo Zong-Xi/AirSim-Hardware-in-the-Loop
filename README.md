@@ -62,19 +62,21 @@ in `setting.json` :
 <br>
 
 ## AirSim + QGroundControl + HITL 
-### AirSim and Pixhawk connection : using usb port 
-    - (in my computer is `serial port:COM6`)
+### AirSim and Pixhawk connection : 
+- using usb port 
+- in my computer is `serial port:COM6`)
 ### AirSim and QGC connection : using udp 
-    - in Application setting -> Comm Links
-    - Listening Port : 14550
-    - TargetHosts : 127.0.0.1:14550 (local computer ip) 
-    - <img src="https://github.com/Zong-Xi/AirSim-Hardware-in-the-Loop/blob/master/picture/QGC.png" width="40%" height="40%" />
-    - also need to set the parameter in `AirSim/Setting.json`
-    ``` json
-    "QgcHostIp": "127.0.0.1", 
-    "QgcPort": 14550, 
-    ```
-- launch QGC -> select udp connection mamually -> launch AirSim 
+- in Application setting -> Comm Links
+- Listening Port : 14550
+- TargetHosts : 127.0.0.1:14550 (local computer ip) 
+- <img src="https://github.com/Zong-Xi/AirSim-Hardware-in-the-Loop/blob/master/picture/QGC.png" width="40%" height="40%" />
+- also need to set the parameter in `AirSim/Setting.json`
+``` json
+"QgcHostIp": "127.0.0.1", 
+"QgcPort": 14550, 
+```
+### Launch 
+- QGC -> select udp connection mamually -> launch AirSim 
 
 <BR>
 
