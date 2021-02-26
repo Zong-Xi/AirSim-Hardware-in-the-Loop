@@ -73,7 +73,10 @@ in `setting.json` :
     "QgcHostIp": "127.0.0.1", 
     "QgcPort": 14550, 
     ```
+- launch QGC -> select udp connection mamually -> launch AirSim 
 
+<BR>
+    
 ## Result
 - HITL, using transmitter 
     - [using transmitter](<https://youtu.be/jm2-Q2Wo8pk>)
