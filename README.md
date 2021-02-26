@@ -61,6 +61,19 @@ in `setting.json` :
 
 <br>
 
+## AirSim + QGroundControl + HITL 
+- AirSim and Pixhawk connection : using usb port 
+    - (in my computer is `serial port:COM6`)
+- AirSim and QGC connection : using udp 
+    - in Application setting -> Comm Links
+    - Listening Port : 14550
+    - TargetHosts : 127.0.0.1:14550 (local computer ip) 
+    - also need to set the parameter in `AirSim/Setting.json`
+    - ```json
+    - "QgcHostIp": "127.0.0.1", 
+      "QgcPort": 14550, 
+    - ```
+
 ## Result
 - HITL, using transmitter 
     - [using transmitter](<https://youtu.be/jm2-Q2Wo8pk>)
