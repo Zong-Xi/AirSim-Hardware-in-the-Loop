@@ -69,10 +69,10 @@ in `setting.json` :
     - Listening Port : 14550
     - TargetHosts : 127.0.0.1:14550 (local computer ip) 
     - also need to set the parameter in `AirSim/Setting.json`
-    - ```json "QgcHostIp": "127.0.0.1", </br> "QgcPort": 14550, ```
-    - "QgcHostIp": "127.0.0.1", 
-      "QgcPort": 14550, 
-    - ```
+    ``` json
+    "QgcHostIp": "127.0.0.1", 
+    "QgcPort": 14550, 
+    ```
 
 ## Result
 - HITL, using transmitter 
