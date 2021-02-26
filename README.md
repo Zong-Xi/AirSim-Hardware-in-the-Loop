@@ -83,3 +83,5 @@ in `setting.json` :
 
 - HITL, using Python code
     - [using Python](<https://youtu.be/XE08pVrVFdY>)
+- HITL + QGC + AirSim, using Python code 
+    - [link](<https://youtu.be/i28x2xz901E>)
