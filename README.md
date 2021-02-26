@@ -57,7 +57,7 @@ in `setting.json` :
         }
     }
 ```
-[px4 setup reference](<https://github.com/Microsoft/AirSim/blob/master/docs/px4_setup.md> =30%)
+[px4 setup reference](<https://github.com/Microsoft/AirSim/blob/master/docs/px4_setup.md> width="40%" height="40%")
 
 <br>
 
